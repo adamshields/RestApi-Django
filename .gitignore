@@ -1,0 +1,7 @@
+# .idea
+.pyc
+.cpy
+__pycache__
+venv
+# .vscode
+*.code-workspace
